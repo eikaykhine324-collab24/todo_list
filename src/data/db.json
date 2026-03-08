@@ -1,0 +1,34 @@
+{
+  "todolist": [
+    {
+      "id": "41ecd377-7c15-76f5-e4cd-4c9fb5a78f2f",
+      "task": "Drink water / light exercise",
+      "complete": false
+    },
+    {
+      "id": "bf1b58a0-65c1-795a-7a39-aa2b12545c58",
+      "task": "Review today's goals or affirmations",
+      "complete": false
+    },
+    {
+      "id": "68f26589-33c8-074b-9f5d-77660d1a5c28",
+      "task": "Check emails or messages",
+      "complete": false
+    },
+    {
+      "id": "63e8ffd4-b4f6-166b-8951-1c49c5952d35",
+      "task": "Finish main task / project",
+      "complete": false
+    },
+    {
+      "id": "12d2defb-df04-afb2-9421-949439fcb5d5",
+      "task": "Study English",
+      "complete": false
+    },
+    {
+      "id": "0b2af914-532b-55c4-dcea-36fdb3fb1ddc",
+      "task": "Write gratitude notes or journal",
+      "complete": false
+    }
+  ]
+}
